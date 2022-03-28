@@ -57,4 +57,20 @@ h2 {
   margin-left: 5%;
   margin-right: 5%;
   box-shadow: 10px 10px 40px gray;
+  border-radius: 10px;
+}
+#Full-stack {
+  border-top: 7px solid;
+  border-bottom: 7px solid;
+  border-image: linear-gradient(rgb(63, 212, 18), rgb(157, 255, 0));
+  border-image-slice: 14;
+}
+#Web-developer {
+  border-top: 7px solid;
+  border-bottom: 7px solid;
+  border-image: linear-gradient(red, rgb(157, 255, 0));
+  border-image-slice: 1;
+}
+footer p {
+  text-align: center;
 }
